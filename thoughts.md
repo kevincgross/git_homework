@@ -1,11 +1,13 @@
 Takeaways
 
-Git is an incredibly useful and important tool that most devs use
+-Git is an incredibly useful and important tool that most devs use
 
-Time management and calendaring are going to be key to our success
+-Time management and calendaring are going to be key to our success
 
 Strategies
 
-Being early on all assignments if possible as to give myself time to fix mistakes
+-Being early on all assignments if possible as to give myself time to fix mistakes
 
-Finding a good work to life balance in my every day life
+-Finding a good work to life balance in my every day life
+
+Shoutout to my girlfriend Katrina who has supported me going back to school and advancing my career
