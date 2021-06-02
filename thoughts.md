@@ -11,5 +11,3 @@ Strategies
 -Finding a good work to life balance in my every day life
 
 Shoutout to my girlfriend Katrina who has supported me going back to school and advancing my career
-
-Turing is very hard.
